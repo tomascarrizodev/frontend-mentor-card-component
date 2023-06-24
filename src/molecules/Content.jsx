@@ -4,7 +4,7 @@ export default function Content() {
     return (
         <>
             <div
-                className="p-5 flex flex-col gap-4 md:justify-around md:p-8"
+                className="p-5 flex flex-col gap-4 md:justify-around md:p-8 md:w-3/6"
             >
                 <p
                     className="uppercase font-body text-body tracking-ultra text-xs md:text-sm"
